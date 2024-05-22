@@ -1,1 +1,1 @@
-# lifeFitCam
+# Synapseguard
